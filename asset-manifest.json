@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spa_react_typescript_hello-world/static/css/main.0d8088e9.css",
+    "main.js": "/spa_react_typescript_hello-world/static/js/main.4c660d83.js",
+    "index.html": "/spa_react_typescript_hello-world/index.html",
+    "main.0d8088e9.css.map": "/spa_react_typescript_hello-world/static/css/main.0d8088e9.css.map",
+    "main.4c660d83.js.map": "/spa_react_typescript_hello-world/static/js/main.4c660d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8088e9.css",
+    "static/js/main.4c660d83.js"
+  ]
+}
